@@ -4,7 +4,7 @@ Hi 👋 My name is Łukasz Maniak
 Beginner Frontend Developer
 ---------------------------
 
-😁Hi ! I'm a 21-year-old aspiring self-thought frontend developer with a passion for creating beautiful and responsive web applications. I've been learning the web development for almost a year, and I've already worked with technologies like HTML, CSS, SASS, Tailwind CSS and JavaScript. Currently, I'm diving deep into React so I can be a better developer. 
+😁Hi ! I'm a 21-year-old aspiring self-taught frontend developer with a passion for creating beautiful and responsive web applications. I've been learning the web development for almost a year, and I've already worked with technologies like HTML, CSS, SASS, Tailwind CSS and JavaScript. Currently, I'm diving deep into React so I can be a better developer. 
 
 🤓 During my learning journey, I've successfully completed few mini-projects from Frontend Mentor website. My goal is to keep pushing the boundaries of my skills by continuously improving my code, learning new technologies, and finally starting my professional carrer as a frontend developer.
 
