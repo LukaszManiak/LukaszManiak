@@ -6,7 +6,7 @@ Beginner Frontend Developer
 
 😁Hi ! I'm a 21-year-old aspiring self-taught frontend developer with a passion for creating beautiful and responsive web applications. I've been learning the web development for almost a year, and I've already worked with technologies like HTML, CSS, SASS, Tailwind CSS and JavaScript. Currently, I'm diving deep into React so I can be a better developer. 
 
-🤓 During my learning journey, I've successfully completed few mini-projects from Frontend Mentor website. My goal is to keep pushing the boundaries of my skills by continuously improving my code, learning new technologies, and finally starting my professional carrer as a frontend developer.
+🤓 During my learning journey, I've successfully completed projects from Frontend Mentor website. My goal is to keep pushing the boundaries of my skills by continuously improving my code, learning new technologies, and finally starting my professional carrer as a frontend developer.
 
 * 🌍  I'm based in Poland , Wrocław
 * ✉️  You can contact me at [lukasz.maniak22@gmail.com](mailto:lukasz.maniak22@gmail.com)
