@@ -2,7 +2,7 @@ Hi ! I'm a 22-year-old aspiring self-taught frontend developer with a passion fo
 
 * 🌍  I'm based in Poland , Wrocław
 * ✉️  You can contact me at [lukasz.maniak22@gmail.com](mailto:lukasz.maniak22@gmail.com)
-* 🧠  Currently, I'm learning React
+* 🧠  Currently, I'm learning React and Next.js
 
 ### Technologies I know
 
